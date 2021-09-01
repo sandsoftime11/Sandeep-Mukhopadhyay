@@ -7,6 +7,13 @@ My introduction to the world of data analytics for business was rather accidenta
 
 This website is a portfolio of the various projects I have done as part of the coursework. I hope you like it!
 
+[Résumé](https://github.com/sandsoftime11/Sandeep-Mukhopadhyay/blob/main/Sandeep%20Mukhopadhyay%20-%20Resume.pdf)      
+
+ <a href="https://www.linkedin.com/in/sandeep-mukhopadhyay-1ab488b9//" class="social-icon si-rounded si-small si-linkedin">
+    <i class="icon-linkedin"></i>
+    <i class="icon-linkedin"></i>
+ </a>       
+
 
 # Education 
 
@@ -153,13 +160,4 @@ This website is a portfolio of the various projects I have done as part of the c
 
 [SAS 9.4 Base Programming - SAS Exam](https://www.credly.com/badges/08c9c50a-0b1b-4d81-b34a-d2a35f10e756?source=linked_in_profile)
 
-
-# Resume
-
-
-[View Here](https://github.com/sandsoftime11/Sandeep-Mukhopadhyay/blob/main/Sandeep%20Mukhopadhyay%20-%20Resume.pdf)
-
-# LinkedIn
-
-[Visit Here](https://www.linkedin.com/in/sandeep-mukhopadhyay-1ab488b9//)
 
