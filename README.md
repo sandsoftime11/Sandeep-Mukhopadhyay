@@ -40,6 +40,8 @@
 - Led a team and operated as the primary point of contact for a robotics project
 
 
+
+
 **Various Law Firms & Independent Practice** | August 2017 - December 2020
 
 ![](/images/LAWATTORNEYLogo997.jpg)
@@ -57,18 +59,20 @@
 - Appeared and argued before various Courts/Tribunals including the Civil Court, Special Magistrate’s Courts, Criminal Courts, Debt Recovery and Insolvency Tribunals and Constitutional Courts.
 
 
+
+
 # Projects
 
-**AI Chess Engine** | 
+**NBA Analytics** | 
 
-![](/Images/Chess.jfif) 
+![](/images/nba-logo.jpg) 
 
+[Link](https://amaheshw.shinyapps.io/NBA_Team6/)
 
-
-[View Project](https://github.com/Usama93-PU/AI-Chess-Engine) 
+[View Project](https://github.com/sandsoftime11/NBA-Analytics) 
  
-- Chess engine based on **Deep Learning ML** algorithms that can play against humans
-- Used heuristics like **MinMax, AlphaBeta Pruning & Quiescence Search** to evaluate the game
+- Prediction engine based on **Logistic Regression** to predict results of NBA games
+- Used packages like TwitteR, shinyhelper, ggplot2 for EDA analysis, factoextra for clustering and caret for predictive analytics.  
 
 
 
@@ -82,17 +86,6 @@
 - Using supervised learning methods to predict bad loans, achieved accuracy score of **88.92%** using XGBoost
 
 
-
-**R Shiny App - Telecom Churn Rate Analysis** |
-
-![](/Images/Telecom-operators-and-reducing-customer-churn_adobespark.jfif) 
-
-
-
-
-[View Project](https://github.com/Usama93-PU/R-ShinyApp-Telco-Churn-Rate)
-
-- Interactive dashboard to predict Telecom Churn Rate using **RStudio’s shinyApp** package
 
 
 
@@ -133,14 +126,6 @@
 
 
 
-**FIFA World Cup History Visualization** |
-
-![](/Images/FIFA-Logo_adobespark.png) 
-[View Project](https://public.tableau.com/app/profile/usama.ather/viz/FIFAWorldCupHistory_16251905207180/Dashboard1)
-
-
-
-
 # Awards
 
 **ECS Hackathon Winner - 2021** |
@@ -149,7 +134,6 @@
 
 # Certifications
 
-[Data Scientist with R - Data Camp](https://www.datacamp.com/statement-of-accomplishment/track/3d40ac666006b121e2b57c5df0d621c196eb83cf)
 
 [SAS 9.4 Base Programming - SAS Exam](https://www.credly.com/badges/08c9c50a-0b1b-4d81-b34a-d2a35f10e756?source=linked_in_profile)
 
@@ -157,9 +141,9 @@
 # Resume
 
 
-[View Here](https://www.dropbox.com/s/ilsn4r3r7hm56v3/Usama%20Ather%20-%20Resume.pdf?dl=0)
+[View Here](https://github.com/sandsoftime11/Sandeep-Mukhopadhyay/blob/main/Sandeep%20Mukhopadhyay%20-%20Resume.pdf)
 
 # LinkedIn
 
-[Visit Here](https://www.linkedin.com/in/usamaather/)
+[Visit Here](https://www.linkedin.com/in/sandeep-mukhopadhyay-1ab488b9//)
 
