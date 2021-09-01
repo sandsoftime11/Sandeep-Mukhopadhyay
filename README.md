@@ -103,18 +103,13 @@
 
 
 
-
-
 **Craigslist Categorization** |
 
 ![](/images/Craigslist-logo.jpg) 
 
 
-
-
 [View Project](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis) 
 - Scrapped data and deployed learning models to categorize items correctly. 
-
 
 
 
@@ -135,10 +130,8 @@
 ![](/images/fairness in AI.jpg)
 
 
-
-- An [article](https://medium.com/@sandeepmukhopadhyay92/algorithm-fairness-acf31892a05d) where I talk about the emerging area of study pertaining to Algorithm Fairness. This area of study investigates real world discrimination that may occur as a result of AI implementation!  
-
-
+- An article where I talk about the emerging area of study pertaining to Algorithm Fairness. This area of study investigates real world discrimination that may occur as a result of AI implementation!
+- You can find the article [here](https://medium.com/@sandeepmukhopadhyay92/algorithm-fairness-acf31892a05d).
 
 # Awards
 
