@@ -1,5 +1,5 @@
 
-![](/Images/Usama_adobespark.png)
+![](/images/Sandeep Mukhopadhyay.jpg)
 
 # Education 
 
