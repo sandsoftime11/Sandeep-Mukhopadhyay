@@ -1,5 +1,12 @@
 
 ![](/images/Sandeep Mukhopadhyay.jpg)
+# About me
+I am a lawyer qualified to practice in the jurisdiction of India. I have been practicing since 2017 in the areas of corporate commercial law, civil law, criminal law and insolvency law. Throughout my years of studying and practicing law, I have developed the ability to tackle issues from multiple lenses to develop an effective solution. Particularly in corporate commercial law, I’ve worked to deliver high quality analyses for complex legal issues by looking at business, labor, market and other related angles. 
+
+My introduction to the world of data analytics for business was rather accidental. In 2018, a friend of mine had proposed a business idea to me. We set out to create a website for automated contract drafting. For preparation, I started to learn about tools that would help me build and market my business. This led me into data analytics. And after investigating this space a little more, I was convinced that I wanted to pursue a formal education in it. This led me to pursue the **MS in Business Analytics and Information Management** at **Purdue University**. 
+
+This website is a portfolio of the various projects I have done as part of the coursework. I hope you like it!
+
 
 # Education 
 
