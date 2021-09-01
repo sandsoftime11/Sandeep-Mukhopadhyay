@@ -20,6 +20,9 @@
 ![](/images/gnlu logo.png)
 
 
+
+
+
 # Work Experience
 
 **Krenicki Center for Data Analytics & Machine Learning** | June 2021 - Present
