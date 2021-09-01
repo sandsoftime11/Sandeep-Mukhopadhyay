@@ -69,6 +69,7 @@
 
 [Link](https://amaheshw.shinyapps.io/NBA_Team6/)
 
+
 [View Project](https://github.com/sandsoftime11/NBA-Analytics) 
  
 - Prediction engine based on **Logistic Regression** to predict results of NBA games
@@ -79,11 +80,13 @@
 
 **Lending Club Loan - Classification** |
 
-![](/Images/download.png) 
+![](/images/lending club.png) 
+
+
 
 [View Project](https://github.com/Usama93-PU/Lending-Club-Loan-Classification)
 
-- Using supervised learning methods to predict bad loans, achieved accuracy score of **88.92%** using XGBoost
+- Using supervised learning methods to predict bad loans, achieved accuracy score of **88.92%** using XGBoost.
 
 
 
@@ -91,38 +94,49 @@
 
 **Bankruptcy Classification - Kaggle Challenge** |
 
-![](/Images/Kaggle_logo.png) 
+![](/images/Kaggle_logo.png) 
 
 
 
 [View Project](https://github.com/Usama93-PU/Bankruptcy-Classification-Kaggle-Challenge) 
-- Developed a Gradient Boosting model using SAS Enterprise Miner to predict if a firm will go bankrupt, amongst **top 30% of class**
+- Developed a Gradient Boosting model using SAS Enterprise Miner to predict if a firm will go bankrupt, amongst **top 30% of class**.
 
 
 
 
 
-**Diabetes Patient's Survival Analysis** |
+**Craigslist Categorization** |
 
-![](/Images/Diabetic_eye_disease_600_adobespark.jfif) 
+![](/images/Craigslist-logo.jpg) 
 
 
 
 
 [View Project](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis) 
-- Successfully developed model to predict **hazard ratio** for diabetes patients' using survival analysis
+- Scrapped data and deployed learning models to categorize items correctly. 
 
 
 
 
 **Public Library Database Management System** |
 
-![](/Images/1280px-Seattle_Public_Library_logo.svg.png) 
+![](/images/Seattle_Public_Library_logo.png) 
 
 
 [View Project](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
 
-- Used mySQL to develop a generalized **DDL & DML** for public library database management system
+- Used mySQL to develop a generalized **DDL & DML** for public library database management system.
+
+
+# Publications
+
+**Algorithm Fairness** |
+
+![](/images/fairness in AI.jpg)
+
+
+
+- An [article](https://medium.com/@sandeepmukhopadhyay92/algorithm-fairness-acf31892a05d) where I talk about the emerging area of study pertaining to Algorithm Fairness. This area of study investigates real world discrimination that may occur as a result of AI implementation!  
 
 
 
@@ -130,7 +144,9 @@
 
 **ECS Hackathon Winner - 2021** |
 
-![](/Images/ECS_adobespark.jfif)
+![](/images/ECS_Logo-1.png)
+
+
 
 # Certifications
 
