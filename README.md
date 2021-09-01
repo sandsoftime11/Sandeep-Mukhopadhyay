@@ -9,7 +9,7 @@ This website is a portfolio of the various projects I have done as part of the c
 
 [Résumé](https://github.com/sandsoftime11/Sandeep-Mukhopadhyay/blob/main/Sandeep%20Mukhopadhyay%20-%20Resume.pdf)      
 
- <a href="https://www.linkedin.com/in/sandeep-mukhopadhyay-1ab488b9//" class="social-icon si-rounded si-small si-linkedin">
+ <a href="https://www.linkedin.com/in/sandeep-mukhopadhyay-1ab488b9/" class="social-icon si-rounded si-small si-linkedin">
     <i class="icon-linkedin"></i>
     <i class="icon-linkedin"></i>
  </a>       
