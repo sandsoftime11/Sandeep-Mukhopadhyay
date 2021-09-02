@@ -87,7 +87,13 @@ This website is a portfolio of the various projects I have done as part of the c
 - Used packages like TwitteR, shinyhelper, ggplot2 for EDA analysis, factoextra for clustering and caret for predictive analytics.  
 
 
+**Mortgage Survival Analysis** |
 
+![](/images/Deferral Mortgage Default.png) 
+
+[View Project](https://github.com/sandsoftime11/Mortgage-Survival-Analysis)
+
+- Performed Survival Analysis on mortgage data. 
 
 **Lending Club Loan - Classification** |
 
