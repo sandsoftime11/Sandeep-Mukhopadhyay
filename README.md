@@ -1,7 +1,7 @@
 
 ![](/images/Sandeep Mukhopadhyay.jpg)
 # About me
-I am a lawyer qualified to practice in the jurisdiction of India. I have been practicing since 2017 in the areas of corporate commercial law, civil law, criminal law and insolvency law. Throughout my years of studying and practicing law, I have developed the ability to tackle issues from multiple lenses to develop an effective solution. Particularly in corporate commercial law, I’ve worked to deliver high quality analyses for complex legal issues by looking at business, labor, market and other related angles. 
+I am a lawyer qualified to practice in the jurisdiction of India. I have been practicing since 2017 in the areas of corporate commercial law, civil law, criminal law and insolvency law. Throughout my years of studying and practicing law, I have developed the ability to tackle issues from multiple lenses to develop an effective solution. I believe it is the same thought process that is used in data analysis. Looking at data from different angles and coming up with the best possible solutions.  
 
 My introduction to the world of data analytics for business was rather accidental. In 2018, a friend of mine had proposed a business idea to me. We set out to create a website for automated contract drafting. For preparation, I started to learn about tools that would help me build and market my business. This led me into data analytics. And after investigating this space a little more, I was convinced that I wanted to pursue a formal education in it. This led me to pursue the **MS in Business Analytics and Information Management** at **Purdue University**. 
 
@@ -9,7 +9,88 @@ This website is a portfolio of the various projects I have done as part of the c
 
 [Résumé](https://github.com/sandsoftime11/Sandeep-Mukhopadhyay/blob/main/Sandeep%20Mukhopadhyay%20-%20Resume.pdf)      
 
-[LinkedIn](https://www.linkedin.com/in/sandeep-mukhopadhyay-1ab488b9/)
+[LinkedIn](https://www.linkedin.com/in/sandeep-mukhopadhyay/)
+
+# Projects
+
+**NBA Analytics** | 
+
+![](/images/nba-logo.jpg) 
+
+[Link](https://amaheshw.shinyapps.io/NBA_Team6/)
+
+
+[View Project](https://github.com/sandsoftime11/NBA-Analytics) 
+ 
+- Prediction engine based on **Logistic Regression** to predict results of NBA games
+- Used packages like TwitteR, shinyhelper, ggplot2 for EDA analysis, factoextra for clustering and caret for predictive analytics.  
+
+
+**Mortgage Survival Analysis** |
+
+![](/images/Deferral Mortgage Default.png) 
+
+[View Project](https://github.com/sandsoftime11/Mortgage-Survival-Analysis)
+
+- Performed Survival Analysis on mortgage data. 
+
+
+
+**Lending Club Loan - Classification** |
+
+![](/images/lending club.png) 
+
+
+
+[View Project](https://github.com/sandsoftime11/Lending-Club-Classification)
+
+- Using supervised learning methods to predict bad loans, achieved accuracy score of **88.92%** using XGBoost.
+
+
+
+
+
+**Bankruptcy Classification - Kaggle Challenge** |
+
+![](/images/Kaggle_logo.png) 
+
+
+
+[View Project]() 
+- Developed a Gradient Boosting model using SAS Enterprise Miner to predict if a firm will go bankrupt, amongst **top 30% of class**.
+
+
+
+**Craigslist Categorization** |
+
+![](/images/Craigslist-logo.jpg) 
+
+
+[View Project](https://github.com/sandsoftime11/Craigslist-Classification-) 
+- Scrapped data and deployed learning models to categorize items correctly. 
+
+
+
+**Public Library Database Management System** |
+
+![](/images/Seattle_Public_Library_logo.png) 
+
+
+[View Project](https://github.com/sandsoftime11/Public-Library-DBMS)
+
+- Used mySQL to develop a generalized **DDL & DML** for public library database management system.
+
+
+# Publications
+
+**Algorithm Fairness** |
+
+![](/images/fairness in AI.jpg)
+
+
+- An article where I talk about the emerging area of study pertaining to Algorithm Fairness. This area of study investigates real world discrimination that may occur as a result of AI implementation!
+- You can find the article [here](https://medium.com/@sandeepmukhopadhyay92/algorithm-fairness-acf31892a05d).
+
 
 
 # Education 
@@ -29,8 +110,6 @@ This website is a portfolio of the various projects I have done as part of the c
 *Bachelor’s in Law and Arts (Hons.)* 
 
 ![](/images/gnlu logo.png)
-
-
 
 
 
@@ -69,86 +148,6 @@ This website is a portfolio of the various projects I have done as part of the c
 
 - Appeared and argued before various Courts/Tribunals including the Civil Court, Special Magistrate’s Courts, Criminal Courts, Debt Recovery and Insolvency Tribunals and Constitutional Courts.
 
-
-
-
-# Projects
-
-**NBA Analytics** | 
-
-![](/images/nba-logo.jpg) 
-
-[Link](https://amaheshw.shinyapps.io/NBA_Team6/)
-
-
-[View Project](https://github.com/sandsoftime11/NBA-Analytics) 
- 
-- Prediction engine based on **Logistic Regression** to predict results of NBA games
-- Used packages like TwitteR, shinyhelper, ggplot2 for EDA analysis, factoextra for clustering and caret for predictive analytics.  
-
-
-**Mortgage Survival Analysis** |
-
-![](/images/Deferral Mortgage Default.png) 
-
-[View Project](https://github.com/sandsoftime11/Mortgage-Survival-Analysis)
-
-- Performed Survival Analysis on mortgage data. 
-
-**Lending Club Loan - Classification** |
-
-![](/images/lending club.png) 
-
-
-
-[View Project](https://github.com/Usama93-PU/Lending-Club-Loan-Classification)
-
-- Using supervised learning methods to predict bad loans, achieved accuracy score of **88.92%** using XGBoost.
-
-
-
-
-
-**Bankruptcy Classification - Kaggle Challenge** |
-
-![](/images/Kaggle_logo.png) 
-
-
-
-[View Project](https://github.com/Usama93-PU/Bankruptcy-Classification-Kaggle-Challenge) 
-- Developed a Gradient Boosting model using SAS Enterprise Miner to predict if a firm will go bankrupt, amongst **top 30% of class**.
-
-
-
-**Craigslist Categorization** |
-
-![](/images/Craigslist-logo.jpg) 
-
-
-[View Project](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis) 
-- Scrapped data and deployed learning models to categorize items correctly. 
-
-
-
-**Public Library Database Management System** |
-
-![](/images/Seattle_Public_Library_logo.png) 
-
-
-[View Project](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
-
-- Used mySQL to develop a generalized **DDL & DML** for public library database management system.
-
-
-# Publications
-
-**Algorithm Fairness** |
-
-![](/images/fairness in AI.jpg)
-
-
-- An article where I talk about the emerging area of study pertaining to Algorithm Fairness. This area of study investigates real world discrimination that may occur as a result of AI implementation!
-- You can find the article [here](https://medium.com/@sandeepmukhopadhyay92/algorithm-fairness-acf31892a05d).
 
 # Awards
 
