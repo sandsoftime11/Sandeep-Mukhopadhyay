@@ -1,5 +1,5 @@
 
-![](/images/Sandeep Mukhopadhyay.jpg)
+![](/images/photo2.jpg)
 # About me
 I am a lawyer qualified to practice in the jurisdiction of India. I have been practicing since 2017 in the areas of corporate commercial law, civil law, criminal law and insolvency law. Throughout my years of studying and practicing law, I have developed the ability to tackle issues from multiple lenses to develop an effective solution. I believe it is the same thought process that is used in data analysis. Looking at data from different angles and coming up with the best possible solutions.  
 
